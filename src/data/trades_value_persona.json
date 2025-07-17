@@ -1,0 +1,1302 @@
+[
+  {
+    "Trade ID": "T001",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 38305.07,
+    "Volume": 31.59,
+    "Date": "2024-05-07T15:57:44.290Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T002",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 34206.76,
+    "Volume": 7.2,
+    "Date": "2023-10-20T10:13:41.058Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T003",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 26615.62,
+    "Volume": 47.48,
+    "Date": "2023-07-17T12:00:26.454Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T004",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 34435.14,
+    "Volume": 27.63,
+    "Date": "2023-03-29T03:40:50.059Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T005",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 44373.38,
+    "Volume": 17.52,
+    "Date": "2023-11-09T06:39:11.648Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T006",
+    "Asset": "MATIC",
+    "Buy/Sell": "Sell",
+    "Price": 10892.25,
+    "Volume": 45.56,
+    "Date": "2023-05-24T13:07:32.583Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T007",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 10588.62,
+    "Volume": 1.42,
+    "Date": "2023-10-07T21:45:58.250Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T008",
+    "Asset": "ADA",
+    "Buy/Sell": "Buy",
+    "Price": 964.49,
+    "Volume": 34.35,
+    "Date": "2023-03-17T20:57:01.420Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T009",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 2458.29,
+    "Volume": 9.44,
+    "Date": "2023-03-18T05:13:59.632Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T010",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 36363.45,
+    "Volume": 29.26,
+    "Date": "2024-02-08T19:02:17.394Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T011",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 44337.38,
+    "Volume": 10.93,
+    "Date": "2023-05-21T23:15:28.836Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T012",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 31971.01,
+    "Volume": 46.27,
+    "Date": "2023-10-11T13:36:42.215Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T013",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 41440.69,
+    "Volume": 21.62,
+    "Date": "2023-01-01T15:36:54.406Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T014",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 1055.8,
+    "Volume": 2.36,
+    "Date": "2023-03-31T02:40:14.480Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T015",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 17790.87,
+    "Volume": 37.87,
+    "Date": "2024-03-25T00:41:06.388Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T016",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 1660.54,
+    "Volume": 31.54,
+    "Date": "2023-02-03T12:56:25.911Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T017",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 1081.74,
+    "Volume": 37.46,
+    "Date": "2023-04-08T07:35:37.570Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T018",
+    "Asset": "MATIC",
+    "Buy/Sell": "Sell",
+    "Price": 12351.49,
+    "Volume": 21.99,
+    "Date": "2024-05-01T07:47:58.712Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T019",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 35684.15,
+    "Volume": 47.18,
+    "Date": "2023-05-19T23:26:51.702Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T020",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 26080.44,
+    "Volume": 18.25,
+    "Date": "2024-03-08T00:44:48.986Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T021",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 39150.7,
+    "Volume": 26.36,
+    "Date": "2023-11-27T04:09:23.274Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T022",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 19426.44,
+    "Volume": 29.22,
+    "Date": "2024-06-25T19:03:19.109Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T023",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 33951.94,
+    "Volume": 41.53,
+    "Date": "2023-03-11T00:06:40.942Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T024",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 28882.02,
+    "Volume": 30.62,
+    "Date": "2024-02-16T15:52:22.524Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T025",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 39962.45,
+    "Volume": 47.74,
+    "Date": "2024-03-01T14:07:15.698Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T026",
+    "Asset": "MATIC",
+    "Buy/Sell": "Sell",
+    "Price": 8027.27,
+    "Volume": 20.1,
+    "Date": "2024-02-23T15:02:59.315Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T027",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 40262.88,
+    "Volume": 4.67,
+    "Date": "2024-01-24T12:04:05.494Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T028",
+    "Asset": "ADA",
+    "Buy/Sell": "Buy",
+    "Price": 5499.34,
+    "Volume": 47.73,
+    "Date": "2023-05-27T22:12:24.264Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T029",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 17609.22,
+    "Volume": 28.31,
+    "Date": "2024-02-16T07:11:09.892Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T030",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 6726.59,
+    "Volume": 36.41,
+    "Date": "2023-07-21T13:18:26.347Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T031",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 25358.85,
+    "Volume": 26.83,
+    "Date": "2024-05-15T22:30:13.274Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T032",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 20965.6,
+    "Volume": 2.85,
+    "Date": "2023-12-04T00:16:46.464Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T033",
+    "Asset": "MATIC",
+    "Buy/Sell": "Buy",
+    "Price": 4538.82,
+    "Volume": 35.42,
+    "Date": "2023-02-11T17:49:12.628Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T034",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 1499.65,
+    "Volume": 19.14,
+    "Date": "2024-02-14T12:58:13.704Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T035",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 553.88,
+    "Volume": 21.36,
+    "Date": "2024-02-20T09:13:39.614Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T036",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 35920.95,
+    "Volume": 43.07,
+    "Date": "2023-04-09T02:07:06.422Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T037",
+    "Asset": "MATIC",
+    "Buy/Sell": "Buy",
+    "Price": 21272.24,
+    "Volume": 31.81,
+    "Date": "2023-09-26T14:34:49.667Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T038",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 38602.35,
+    "Volume": 44.3,
+    "Date": "2024-04-16T00:11:48.692Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T039",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 3555.63,
+    "Volume": 41.27,
+    "Date": "2023-06-09T12:12:16.124Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T040",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 28418.17,
+    "Volume": 19.83,
+    "Date": "2024-06-19T07:30:04.382Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T041",
+    "Asset": "ADA",
+    "Buy/Sell": "Buy",
+    "Price": 34155.83,
+    "Volume": 22.67,
+    "Date": "2023-11-12T14:27:48.310Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T042",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 35128.68,
+    "Volume": 46.4,
+    "Date": "2024-02-03T04:29:50.165Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T043",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 2948.36,
+    "Volume": 8.19,
+    "Date": "2024-04-29T19:36:41.691Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T044",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 39090.15,
+    "Volume": 24.47,
+    "Date": "2023-06-30T23:48:21.156Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T045",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 23908.41,
+    "Volume": 19.27,
+    "Date": "2023-07-28T19:35:30.896Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T046",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 23945.2,
+    "Volume": 10.55,
+    "Date": "2023-07-04T09:19:24.951Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T047",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 24602.58,
+    "Volume": 2.75,
+    "Date": "2023-09-29T05:47:16.287Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T048",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 33441.89,
+    "Volume": 18.42,
+    "Date": "2024-06-03T22:56:59.500Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T049",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 10632.54,
+    "Volume": 8.35,
+    "Date": "2024-05-03T00:15:07.526Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T050",
+    "Asset": "ADA",
+    "Buy/Sell": "Buy",
+    "Price": 25135.61,
+    "Volume": 2,
+    "Date": "2024-02-27T09:31:11.722Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T051",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 33677.65,
+    "Volume": 23.1,
+    "Date": "2023-09-17T23:51:42.368Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T052",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 23881.65,
+    "Volume": 30.01,
+    "Date": "2024-01-22T10:07:54.552Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T053",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 38803.76,
+    "Volume": 32.6,
+    "Date": "2023-06-14T04:46:24.431Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T054",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 41946.98,
+    "Volume": 34.29,
+    "Date": "2023-01-24T01:55:26.349Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T055",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 39727.07,
+    "Volume": 24.54,
+    "Date": "2023-09-21T00:48:18.692Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T056",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 4745.74,
+    "Volume": 10.37,
+    "Date": "2024-03-18T10:34:04.485Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T057",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 6090.12,
+    "Volume": 44.08,
+    "Date": "2023-08-01T21:18:44.701Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T058",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 21215.96,
+    "Volume": 35.31,
+    "Date": "2023-10-20T05:42:00.433Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T059",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 37248.69,
+    "Volume": 25.62,
+    "Date": "2023-12-25T00:06:56.531Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T060",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 549.61,
+    "Volume": 1.45,
+    "Date": "2023-04-01T09:21:59.567Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T061",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 28266.66,
+    "Volume": 13.13,
+    "Date": "2024-03-05T23:18:44.271Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T062",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 22907.69,
+    "Volume": 19.75,
+    "Date": "2023-03-08T14:35:57.833Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T063",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 7423.99,
+    "Volume": 33.84,
+    "Date": "2023-11-17T15:51:32.837Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T064",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 15380.14,
+    "Volume": 31.23,
+    "Date": "2024-05-29T05:29:00.093Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T065",
+    "Asset": "BTC",
+    "Buy/Sell": "Sell",
+    "Price": 5076.1,
+    "Volume": 46.92,
+    "Date": "2024-04-18T00:35:47.217Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T066",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 42969.11,
+    "Volume": 21.63,
+    "Date": "2023-12-17T23:52:20.868Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T067",
+    "Asset": "MATIC",
+    "Buy/Sell": "Buy",
+    "Price": 41037.15,
+    "Volume": 35.21,
+    "Date": "2023-09-27T11:02:43.480Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T068",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 19963.88,
+    "Volume": 9.15,
+    "Date": "2023-08-25T13:18:52.395Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T069",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 28227.69,
+    "Volume": 21.12,
+    "Date": "2024-03-10T04:17:55.337Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T070",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 33732.08,
+    "Volume": 10.92,
+    "Date": "2024-05-16T00:04:41.450Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T071",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 35559.08,
+    "Volume": 4.94,
+    "Date": "2023-09-16T11:43:18.336Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T072",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 8941.66,
+    "Volume": 48.08,
+    "Date": "2023-08-08T08:08:18.919Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T073",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 12970.93,
+    "Volume": 22.44,
+    "Date": "2023-11-14T11:29:44.470Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T074",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 14713.38,
+    "Volume": 29.75,
+    "Date": "2024-03-18T14:51:57.910Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T075",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 6109.64,
+    "Volume": 39.72,
+    "Date": "2023-08-27T04:36:32.014Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T076",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 35816.12,
+    "Volume": 20.11,
+    "Date": "2024-04-29T10:38:23.099Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T077",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 15287.97,
+    "Volume": 36.91,
+    "Date": "2023-07-08T17:29:24.503Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T078",
+    "Asset": "MATIC",
+    "Buy/Sell": "Buy",
+    "Price": 19787.17,
+    "Volume": 37.65,
+    "Date": "2024-02-24T02:47:59.385Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T079",
+    "Asset": "MATIC",
+    "Buy/Sell": "Sell",
+    "Price": 11398.67,
+    "Volume": 9.04,
+    "Date": "2023-07-23T00:25:27.743Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T080",
+    "Asset": "MATIC",
+    "Buy/Sell": "Sell",
+    "Price": 2002.09,
+    "Volume": 21.03,
+    "Date": "2023-02-24T17:21:00.101Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T081",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 27105.61,
+    "Volume": 40,
+    "Date": "2023-03-13T00:35:31.655Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T082",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 10200.86,
+    "Volume": 8.71,
+    "Date": "2023-11-15T16:39:59.715Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T083",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 4950.93,
+    "Volume": 29.51,
+    "Date": "2024-06-20T12:02:48.258Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T084",
+    "Asset": "ETH",
+    "Buy/Sell": "Sell",
+    "Price": 43160.45,
+    "Volume": 43.78,
+    "Date": "2023-05-03T16:08:19.706Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T085",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 26770.42,
+    "Volume": 43.63,
+    "Date": "2024-05-26T08:53:47.731Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T086",
+    "Asset": "ADA",
+    "Buy/Sell": "Sell",
+    "Price": 29252.54,
+    "Volume": 4.42,
+    "Date": "2023-03-01T22:57:47.030Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T087",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 26168.55,
+    "Volume": 25.41,
+    "Date": "2023-02-10T13:55:55.226Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T088",
+    "Asset": "MATIC",
+    "Buy/Sell": "Buy",
+    "Price": 6632.7,
+    "Volume": 20.03,
+    "Date": "2024-06-12T17:28:21.844Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T089",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 13795.13,
+    "Volume": 35.33,
+    "Date": "2023-06-21T18:41:38.203Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T090",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 17981.32,
+    "Volume": 27.21,
+    "Date": "2023-11-29T14:18:33.999Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T091",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 39840.41,
+    "Volume": 49.78,
+    "Date": "2023-03-15T19:27:37.377Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "support-resistance-play",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T092",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 2120.49,
+    "Volume": 25.56,
+    "Date": "2024-06-02T17:01:07.970Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "long-term-hold",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T093",
+    "Asset": "LINK",
+    "Buy/Sell": "Sell",
+    "Price": 9899.85,
+    "Volume": 29.98,
+    "Date": "2023-10-01T02:51:20.615Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T094",
+    "Asset": "LINK",
+    "Buy/Sell": "Buy",
+    "Price": 19107.54,
+    "Volume": 26.77,
+    "Date": "2023-01-20T17:19:22.695Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "value-entry",
+      "Value"
+    ]
+  },
+  {
+    "Trade ID": "T095",
+    "Asset": "ADA",
+    "Buy/Sell": "Buy",
+    "Price": 16362.09,
+    "Volume": 21.65,
+    "Date": "2023-10-20T09:55:36.327Z",
+    "Outcome": "Neutral",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T096",
+    "Asset": "BTC",
+    "Buy/Sell": "Buy",
+    "Price": 43598.41,
+    "Volume": 41.88,
+    "Date": "2024-01-11T09:47:03.451Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T097",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 42937.11,
+    "Volume": 22.31,
+    "Date": "2023-02-02T02:46:00.703Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "take-profit-target",
+      "Risk-Management"
+    ]
+  },
+  {
+    "Trade ID": "T098",
+    "Asset": "XRP",
+    "Buy/Sell": "Buy",
+    "Price": 6754.09,
+    "Volume": 42.11,
+    "Date": "2024-06-21T00:07:08.735Z",
+    "Outcome": "Profit",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T099",
+    "Asset": "ETH",
+    "Buy/Sell": "Buy",
+    "Price": 20479.28,
+    "Volume": 46.54,
+    "Date": "2024-06-09T15:05:43.580Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "rsi-divergence",
+      "Technical"
+    ]
+  },
+  {
+    "Trade ID": "T100",
+    "Asset": "XRP",
+    "Buy/Sell": "Sell",
+    "Price": 12570.99,
+    "Volume": 29.22,
+    "Date": "2023-04-19T22:58:11.487Z",
+    "Outcome": "Loss",
+    "Tags": [
+      "stop-loss-hit",
+      "Risk-Management"
+    ]
+  }
+]
