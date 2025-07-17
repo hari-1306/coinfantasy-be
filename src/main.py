@@ -3,6 +3,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
+from pathlib import Path
 
 # --- Central Logging Configuration ---
 logging.basicConfig(
@@ -42,7 +43,7 @@ def startup_event():
     global agent
     log.info("--- Application Startup: Initializing Trade Agent ---")
     try:
-        agent = TradeAgent(trades_filepath="src\\data\\trades.json")
+        agent = TradeAgent(trades_filepath = Path("src") / "data" / "trades.json")
         log.info("--- Agent initialized successfully. Application is ready. ---")
     except Exception as e:
         log.fatal(f"FATAL: Could not initialize TradeAgent during startup: {e}", exc_info=True)
