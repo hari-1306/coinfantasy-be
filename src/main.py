@@ -13,7 +13,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # --- Import your completed agent logic ---
-from agent_logic import TradeAgent
+from src.agent_logic import TradeAgent
 
 # --- Application Setup ---
 load_dotenv()
@@ -42,7 +42,7 @@ def startup_event():
     global agent
     log.info("--- Application Startup: Initializing Trade Agent ---")
     try:
-        agent = TradeAgent(trades_filepath="data/trades.json")
+        agent = TradeAgent(trades_filepath="src\\data\\trades.json")
         log.info("--- Agent initialized successfully. Application is ready. ---")
     except Exception as e:
         log.fatal(f"FATAL: Could not initialize TradeAgent during startup: {e}", exc_info=True)

@@ -3,9 +3,9 @@ import json
 import logging
 import google.generativeai as genai
 from typing import List, Dict, Any
-from pandas_query_engine import PandasQueryEngine, model as query_engine_model
-from pandas_aggregation_engine import PandasAggregationEngine
-from persona_logic import analyze_trader_persona_with_pandas
+from src.pandas_query_engine import PandasQueryEngine, model as query_engine_model
+from src.pandas_aggregation_engine import PandasAggregationEngine
+from src.persona_logic import analyze_trader_persona_with_pandas
 import pandas as pd
 
 log = logging.getLogger(__name__)

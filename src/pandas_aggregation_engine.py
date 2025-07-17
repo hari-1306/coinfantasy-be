@@ -2,7 +2,7 @@ import logging
 import pandas as pd
 from typing import Any
 
-from pandas_query_engine import model
+from src.pandas_query_engine import model
 
 log = logging.getLogger(__name__)
 
